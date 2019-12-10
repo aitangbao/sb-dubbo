@@ -1,5 +1,7 @@
 package com.dubbo.consumer.service;
 
+import com.provide.order.entity.Order;
+
 public interface ProductService {
 
     /**
@@ -8,5 +10,7 @@ public interface ProductService {
      * @return
      */
     Integer getCost(int a);
+
+    void saveOrder();
 
 }

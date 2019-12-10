@@ -13,4 +13,4 @@ dubbo:
     timeout: 3000
 
 server:
-  port: 8062
+  port: 8063

@@ -1,7 +1,6 @@
 package com.dubbo.provider.service;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.dubbo.api.service.CostService;
 
 /**
  * 花费服务

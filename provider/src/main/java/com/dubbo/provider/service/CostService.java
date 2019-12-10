@@ -1,4 +1,4 @@
-package com.dubbo.api.service;
+package com.dubbo.provider.service;
 
 public interface CostService {
     /**
